@@ -1,6 +1,6 @@
 # HahaScript
 
-Changes the images from every website to a (single) image of Rean Coldsteel from the Tales of Cold Steel series. Haha...
+Changes the images from every website to a (single) image of Rean Coldsteel from the Tales of Cold Steel series.
 
 # Screenshots:
 <p align="center">
